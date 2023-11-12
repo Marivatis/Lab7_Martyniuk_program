@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="General Classes">
+    <Position X="0.5" Y="1.042" Height="0.291" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Console Classes">
+    <Position X="8.521" Y="1.052" Height="0.291" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Interfaces and Enums">
+    <Position X="3.948" Y="6.781" Height="0.291" Width="1.7" />
+  </Comment>
+  <Class Name="Lab7_Martyniuk_program.Reader">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Console\Reader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.Printer">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAAAAAAAAAAAABAAAIAAgAAAAAEAAAAA=</HashCode>
+      <FileName>Classes\Console\Printer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.MyFileReader">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAgAAAAgAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Classes\Console\MyFileReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.MyConsole">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAIAAIAAAACAAAAAAgAAAAgAACgAcCAAgAAII=</HashCode>
+      <FileName>Classes\Console\MyConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.BehaviorEmulation">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAQAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAEAI=</HashCode>
+      <FileName>Classes\Console\BehaviorEmulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.RandomFileProperties">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAEAAACAAAAAAAAAAAAAAAEAAAAAAAAABAE=</HashCode>
+      <FileName>Classes\General\RandomFileProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.Program">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Classes\General\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.MyFile">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAgIAAAAAAAgAQEAAAAAAQAAAAAAIAQAQCAAAIAAAA=</HashCode>
+      <FileName>Classes\General\MyFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.FileManager" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAACAABAACAAAEAQCAAAIAAIECgAAkABAIAA=</HashCode>
+      <FileName>Classes\General\FileManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.DataWriter">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\General\DataWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.DataReader">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\General\DataReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.FilesPrinter">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Classes\Console\FilesPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab7_Martyniuk_program.IMyFileCreator">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAA=</HashCode>
+      <FileName>Interfaces and Enums\IFileCreator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Lab7_Martyniuk_program.FileType">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAQAAAAAAAACAAAAAAIAAAAAAAAAAAAAAACAAAABAQ=</HashCode>
+      <FileName>Interfaces and Enums\FileType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

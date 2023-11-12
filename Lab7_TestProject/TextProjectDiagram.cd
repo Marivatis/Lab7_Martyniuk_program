@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab7_TestProject.Tests.FileManagerTest">
+    <Position X="8" Y="2" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAIAAAAAAQAAAAgAAgMAgAAAAAIABBAAoQABAAA=</HashCode>
+      <FileName>Tests\FileManagerTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_TestProject.Tests.MyFileTest">
+    <Position X="3" Y="2" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACEAAQQAAAQAAAAAAAAAAEAQABAAAAAChBAAA=</HashCode>
+      <FileName>Tests\MyFileTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_TestProject.Tests.DataReaderTest">
+    <Position X="3" Y="6.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAECgAAAAASAACAAAAAAAAoAA=</HashCode>
+      <FileName>Tests\DataReaderTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_TestProject.Tests.DataWriterTest">
+    <Position X="8" Y="6.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAABIAAABCAAAAAgFAAACAAAAAAAAAQ=</HashCode>
+      <FileName>Tests\DataWriterTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
