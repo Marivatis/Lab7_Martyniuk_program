@@ -15,20 +15,20 @@
 ## Файловий вміст програми
 Для зручності файли коду програми були поділені на групи та рознесені по відповідних папках.
 
-1. Загальні класи ():  
+1. Загальні класи (General):  
    - Program.cs
    - MyFile.cs
    - FileManager.cs
    - RandomFileProperties.cs
    - DataReader.cs
    - DataWriter.cs
-2. Пов'язані з консоллю ():
+2. Пов'язані з консоллю (Console):
    - MyConsole.cs
    - BehaviorEmulation.cs
    - Reader.cs
    - MyFileReader.cs
    - Printer.cs
    - FilesPrinter.cs
-3. Інтерфейси та перерахування ():
+3. Інтерфейси та перерахування (Interfaces and Enums):
    - IFileCreator.cs
    - FileType.cs
