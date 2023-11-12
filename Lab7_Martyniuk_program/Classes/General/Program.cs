@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Creating Git Reposytory
+
 namespace Lab7_Martyniuk_program
 {
     class Program
